@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca156315.css",
+    "main.js": "/static/js/main.fba98cec.js",
+    "index.html": "/index.html",
+    "main.ca156315.css.map": "/static/css/main.ca156315.css.map",
+    "main.fba98cec.js.map": "/static/js/main.fba98cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca156315.css",
+    "static/js/main.fba98cec.js"
+  ]
+}
